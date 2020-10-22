@@ -1,5 +1,6 @@
 team            contact
 Auquan          Jarad Niemi
+BPagano         Serena Wang
 CEID            Dasuni Jayawardena
 Columbia_UNC    Serena Wang
 CovidActNow     Nick Reich
@@ -14,18 +15,22 @@ ERDC            Nick Reich
 Geneva          Johannes Bracher
 Google_Harvard  Estee Cramer
 GT_CHHS         Abdul Hannan Kanji
+IBF             Estee Cramer
 IHME            Nick Reich
 Imperial        Nick Reich
 IowaStateLW     Jarad Niemi
 IQVIA ACOE.     Estee Cramer
 ISUandPKU       Jarad Niemi
 JCB             Estee Cramer
+JHU_CSSE        Serena Wang
 JHU_IDD         Nick Reich
 JHUAPL          Estee Cramer
 Karlen          Estee Cramer
 LANL            Nick Reich
 MIT             Jarad Niemi
+MIT_CritData	Serena Wang
 MOBS            Nick Reich
+MSRA            Serena Wang
 NotreDame       Jarad Niemi
 OliverWyman     Abdul Hannan Kanji
 PandemicCentral Dasuni Jayawardena
@@ -44,6 +49,7 @@ UCM_MESALab     Estee Cramer
 UMass           Nick Reich
 UM_CFG          Estee Cramer
 USC             Serena Wang
+UCSD_NEU        Estee Cramer
 UT              Jarad Niemi
 UVA             Serena Wang
 WalmartLabs     Serena Wang  
