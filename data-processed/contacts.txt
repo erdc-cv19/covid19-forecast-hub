@@ -1,5 +1,6 @@
 team            contact
 Auquan          Jarad Niemi
+Alpert-pwllnod  Estee Cramer
 BPagano         Serena Wang
 Caltech         Estee Cramer
 CEID            Dasuni Jayawardena
@@ -18,6 +19,7 @@ Geneva          Johannes Bracher
 Google_Harvard  Estee Cramer
 GT_CHHS         Abdul Hannan Kanji
 IBF             Estee Cramer
+IEM.            Estee Cramer
 IHME            Nick Reich
 Imperial        Nick Reich
 IowaStateLW     Jarad Niemi
@@ -33,7 +35,7 @@ LANL            Nick Reich
 MIT             Jarad Niemi
 MIT_CritData	Serena Wang
 MOBS            Nick Reich
-MSRA            Serena Wang
+Microsoft       Serena Wang
 NotreDame       Jarad Niemi
 OliverWyman     Abdul Hannan Kanji
 OneQuietNight   Ariane Stark
